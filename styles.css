@@ -1,12 +1,55 @@
-
-
-.nav {
-    color: gray;
-    text-align: center;
-}
-
 .league-background {
     color: gray;
     align-content: center;
     text-align: center;
+    background-image: url(landing_background.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+}
+
+.list-of-teams {
+    display: inline;
+    justify-content: center;
+    text-align: center;
+}
+
+.league-info {
+    display: inline;
+    justify-content: center;
+    text-align: center;
+}
+
+.navigation {
+    align-content: center;
+    padding-top: 50px;
+    color:black;
+    background-color:white;
+    text-align: center;
+}
+
+.league-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 50px, 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    box-shadow: 8px;
+}
+
+.teams-button {
+    background-color:  #4CAF50 ;
+    border: none;
+    color: white;
+    padding: 50px, 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    box-shadow: 8px;
 }
