@@ -86,4 +86,181 @@ nav {
   font-size: 15px;
 }
 
-/*# sourceMappingURL=styles.css.map */
+.league-content {
+  margin-top: 4em;
+  display: flex;
+  place-content: space-between;
+}
+
+.league-content .cta {
+  padding-left: 300px;
+  padding-top: 200px;
+}
+
+.league-content .center-player {
+  margin-left: -100px;
+}
+
+.league-content .cta-button {
+  text-align: center;
+  padding-right: 20em;
+  padding-top: 13em;
+  margin-left: -8em;
+  width: auto;
+}
+
+.league-content .cta-button button {
+  margin: 1em;
+  height: 50px;
+  width: 200px;
+  background-color: rgb(46, 67, 255);
+  color: white;
+  border: none;
+  border-radius: 3em;
+  font-family: poppins;
+  box-shadow: 10px 20px 25px #88888848;
+  font-size: 20px;
+}
+
+.location {
+  background-color: #F5F5F5;
+  padding: 2em;
+  display: flex;
+  place-content: space-between;
+}
+
+.location .building {
+  padding-left: 100px;
+}
+
+.location .text {
+  padding-right: 250px;
+  padding-top: 120px;
+  font-size: 1.5em;
+}
+
+.comissioner {
+  display: flex;
+  place-content: space-between;
+}
+
+.comissioner .person {
+  padding-left: 200px;
+  padding-right: 100px;
+  padding-top: 1em;
+  background-color:#5A98FC;
+}
+
+.comissioner .text {
+  padding-right: 210px;
+  padding-top: 120px;
+  font-size: 1.4em;
+}
+
+.trophy {
+  display: flex;
+  place-content: space-between;
+  padding: 1em;
+  background-color: #F5F5F5;
+}
+
+.trophy .text {
+  padding-right: 210px;
+  padding-top: 120px;
+  font-size: 1.4em;
+  padding-left: 200px;
+}
+
+.trophy .trophy-img {
+  padding-right: 180px;
+}
+
+.trophy .trophy-img img {
+  height: 600px;
+}
+
+.teams-section .text {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 1.5em;
+}
+
+.teams {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  margin-left: 100px;
+}
+
+.agreement-transition img{
+  width: fit-content;
+  margin-left: -500px;
+  margin-top: -190px;
+  height: 750px;
+}
+
+.agreement {
+  margin-top: -400px;
+}
+
+.agreement .text {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.agreement .content-box {
+  text-align: center;
+}
+
+.agreement .content-box img {
+  height: 600px;
+}
+
+.season-results{
+  text-align: center;
+  background-color: #f8f8f8;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.season-results .section-title {
+  font-size: 1.5em;
+}
+
+.season-results .reg-season-results {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.season-results .scorecard img {
+  height: 500px;
+}
+
+.champions {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.champions .text {
+  font-size: 1.5em;
+}
+
+.champions img {
+  height: 500px;
+}
+
+.champions-with-trophy {
+  display: flex;
+  place-content: space-between;
+  background-color: #f8f8f8;
+}
+
+.champions-with-trophy .text {
+  font-size: 1.3em;
+  padding-right: 300px;
+  padding-top: 200px ;
+}
+
+.champions-with-trophy .trophy-second {
+  padding-left: 250px;
+}

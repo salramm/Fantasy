@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430" height="500" viewBox="0 0 430 500">
+  <defs>
+    <filter id="Rectangle_13" x="0" y="0" width="430" height="500" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_18" x="54" y="89" width="312" height="309" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Crafters_Card" data-name="Crafters Card" transform="translate(47.5 42.5)">
+    <g transform="matrix(1, 0, 0, 1, -47.5, -42.5)" filter="url(#Rectangle_13)">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="325" height="395" rx="66" transform="translate(47.5 42.5)" fill="#f8f8f8"/>
+    </g>
+    <text id="Princeton_Crafters" data-name="Princeton Crafters" transform="translate(61 45)" fill="#626262" font-size="22" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Princeton Crafters</tspan></text>
+    <text id="Princeton_NJ" data-name="Princeton, NJ" transform="translate(83 367)" fill="#626262" font-size="22" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Princeton, NJ</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, -47.5, -42.5)" filter="url(#Rectangle_18)">
+      <rect id="Rectangle_18-2" data-name="Rectangle 18" width="237" height="234" rx="77" transform="translate(91.5 123.5)" fill="#fff"/>
+    </g>
+    <path id="Icon_simple-minecraft" data-name="Icon simple-minecraft" d="M121.738,141.4H97.4V117.83h-48.7V141.4H24.351V70.7H48.693V47.13H97.4V70.7h24.342v70.7ZM97.4,0h48.693V47.13H97.4ZM0,0H48.693V47.13H0Z" transform="translate(89.409 127.161)" fill="#8dff95"/>
+  </g>
+</svg>

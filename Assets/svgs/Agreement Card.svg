@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="589" height="763" viewBox="0 0 589 763">
+  <defs>
+    <filter id="Agreement_Background" x="0" y="0" width="589" height="763" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.373"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Agreement_Card" data-name="Agreement Card" transform="translate(75 60)">
+    <g transform="matrix(1, 0, 0, 1, -75, -60)" filter="url(#Agreement_Background)">
+      <rect id="Agreement_Background-2" data-name="Agreement Background" width="439" height="613" rx="87" transform="translate(75 60)" fill="#6a9eff"/>
+    </g>
+    <text id="entry_fee" data-name="entry fee" transform="translate(99 68)" fill="#fff" font-size="27" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-52.501" y="0">entry fee</tspan></text>
+    <text id="_30" data-name="$30" transform="translate(353 123)" fill="#fff" font-size="41" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-34.194" y="0">$30</tspan></text>
+    <text id="playoff_win" data-name="playoff win" transform="translate(112 199)" fill="#fff" font-size="27" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-65.029" y="0">playoff win</tspan></text>
+    <text id="_135" data-name="$135" transform="translate(341 261)" fill="#fff" font-size="40" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-44.48" y="0">$135</tspan></text>
+    <text id="TROPHY" transform="translate(327 306)" fill="#fff" font-size="27" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-54.5" y="0">TROPHY</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="340" y2="2" transform="translate(46 80)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="340" y2="2" transform="translate(46 212)" fill="none" stroke="#fff" stroke-width="1"/>
+    <text id="overall_loss" data-name="overall loss" transform="translate(113 502)" fill="#fff" font-size="27" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-67.486" y="0">overall loss</tspan></text>
+    <text id="regular_season_win" data-name="regular season win" transform="translate(160 379)" fill="#fff" font-size="27" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-112.995" y="0">regular season win</tspan></text>
+    <line id="Line_3" data-name="Line 3" x2="340" y2="2" transform="translate(47 392)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" x2="340" y2="2" transform="translate(46 516)" fill="none" stroke="#fff" stroke-width="1"/>
+    <text id="CHAT_ADMIN" data-name="CHAT ADMIN" transform="translate(299 429)" fill="#fff" font-size="27" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-81.756" y="0">CHAT ADMIN</tspan></text>
+    <text id="T-SHIRT" transform="translate(331 551)" fill="#fff" font-size="27" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-50.004" y="0">T-SHIRT</tspan></text>
+  </g>
+</svg>
