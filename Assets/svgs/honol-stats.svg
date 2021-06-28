@@ -1,0 +1,19 @@
+<svg id="Season_stats" data-name="Season stats" xmlns="http://www.w3.org/2000/svg" width="713" height="439" viewBox="0 0 713 439">
+  <rect id="Rectangle_54" data-name="Rectangle 54" width="713" height="439" rx="60" fill="#ffd16a"/>
+  <rect id="Rectangle_55" data-name="Rectangle 55" width="368" height="49" rx="14" transform="translate(35.049 224)" fill="#fff"/>
+  <rect id="Rectangle_56" data-name="Rectangle 56" width="108" height="49" rx="14" transform="translate(532.049 224)" fill="#fff"/>
+  <rect id="Rectangle_57" data-name="Rectangle 57" width="368" height="49" rx="14" transform="translate(35.799 141)" fill="#fff"/>
+  <rect id="Rectangle_58" data-name="Rectangle 58" width="108" height="49" rx="14" transform="translate(532.799 141)" fill="#fff"/>
+  <text id="_19519" data-name="19519" transform="translate(551.299 261)" fill="#7c7c7c" font-size="25" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">19519</tspan></text>
+  <rect id="Rectangle_50" data-name="Rectangle 50" width="368" height="49" rx="14" transform="translate(35.799 307)" fill="#fff"/>
+  <rect id="Rectangle_51" data-name="Rectangle 51" width="108" height="49" rx="14" transform="translate(532.799 307)" fill="#fff"/>
+  <text id="_69.2_" data-name="69.2%" transform="translate(551.299 341)" fill="#7c7c7c" font-size="25" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">69.2%</tspan></text>
+  <text id="Season_Recod" data-name="Season Recod" transform="translate(58.5 176)" fill="#6e6e6e" font-size="25" font-family="HelveticaNeue-Thin, Helvetica Neue" font-weight="200"><tspan x="0" y="0">Season Recod</tspan></text>
+  <text id="_9-4-0" data-name="9-4-0" transform="translate(560.299 178)" fill="#7c7c7c" font-size="25" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">9-4-0</tspan></text>
+  <text id="Total_Points_Scored" data-name="Total Points Scored" transform="translate(58.5 260)" fill="#6e6e6e" font-size="25" font-family="HelveticaNeue-Thin, Helvetica Neue" font-weight="200"><tspan x="0" y="0">Total Points Scored</tspan></text>
+  <text id="Win_Percentage" data-name="Win Percentage" transform="translate(58.5 343)" fill="#6e6e6e" font-size="25" font-family="HelveticaNeue-Thin, Helvetica Neue" font-weight="200"><tspan x="0" y="0">Win Percentage</tspan></text>
+  <rect id="Rectangle_52" data-name="Rectangle 52" width="368" height="49" rx="14" transform="translate(34.549 66)" fill="#6a9eff"/>
+  <rect id="Rectangle_53" data-name="Rectangle 53" width="108" height="49" rx="14" transform="translate(532.049 66)" fill="#6a9eff"/>
+  <text id="WIN" transform="translate(562.049 100)" fill="#fff" font-size="25" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">WIN</tspan></text>
+  <text id="Playoff_Result" data-name="Playoff Result" transform="translate(58.25 99)" fill="#fff" font-size="25" font-family="HelveticaNeue-Thin, Helvetica Neue" font-weight="200"><tspan x="0" y="0">Playoff Result</tspan></text>
+</svg>
