@@ -264,3 +264,27 @@ nav {
 .champions-with-trophy .trophy-second {
   padding-left: 250px;
 }
+
+.honolulu-hero {
+  text-align: center;
+  z-index: 900;
+}
+
+.honolulu-hero .title {
+  font-size: 1.5em;
+}
+
+.honolulu-hero .hero-honolulu-display {
+  display: flex;
+  place-content: space-between;
+}
+
+.honolulu-hero .hero-honolulu-display .honolulu-logo img {
+  height: 500px;
+  margin-left: 230px;
+  margin-top: 50px;
+}
+
+.honolulu-hero .hero-honolulu-display .honolulu-trophy img {
+  margin-right: 200px;
+}
